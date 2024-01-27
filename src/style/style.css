@@ -160,6 +160,7 @@ section {
   font-weight: 400;
   margin-top: 25px;
   margin-top: 25px;
+}
 
 .footer_section img {
   width: 241px;
@@ -168,3 +169,4 @@ section {
   align-items: center;
   position: relative;
   z-index: -1;
+}
